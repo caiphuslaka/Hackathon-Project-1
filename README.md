@@ -58,7 +58,7 @@
                 <div class="proect">
                     <h3>Project 1: My first website</h3>
                     <P>I was show casing my ability to build webpage using HTML & CSS. </P>
-                    <a href="https://github.com/caiphuslaka/my-work.git></a>
+                    <a href=""project1/index.html"target="blank">https://github.com/caiphuslaka/my-work.git</a>
                 </div>
             </section>
             <footer>
